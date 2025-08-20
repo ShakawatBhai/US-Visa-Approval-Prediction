@@ -19,7 +19,7 @@
 ## How to run?
 
 ```bash
-git clone https://github.com/entbappy/End-to-End-Machine-Learning-Project-Implementation
+git clone https://github.com/ShakawatBhai/US-Visa-Approval-Prediction.git
 ```
 
 ```bash
